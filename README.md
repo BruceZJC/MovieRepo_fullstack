@@ -3,3 +3,4 @@ A fullstack movie repository for movie storage and display based on freeCodeCamp
 
 #### Frontend - React
 #### Backend - Java Spring Boot
+#### Database - MongoDB
